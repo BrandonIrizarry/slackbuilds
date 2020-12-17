@@ -1,0 +1,9 @@
+PRGNAM="textadept"
+VERSION="11.0"
+HOMEPAGE="https://orbitalquark.github.io/textadept/"
+DOWNLOAD="https://github.com/orbitalquark/textadept/releases/download/textadept_11.0/textadept_11.0.linux.tgz"
+MD5SUM=04f1b074724fc3d5ca259ca9b2fe9685
+REQUIRES=""
+MAINTAINER="Brandon C. Irizarry"
+EMAIL="brandon.irizarry@gmail.com"
+
